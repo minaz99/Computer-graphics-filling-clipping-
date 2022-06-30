@@ -1,0 +1,30 @@
+﻿<Window x:Class="Project4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920" Name="mainWindow">
+    <Grid Name="grid">
+        <StackPanel>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Click="line">Line</Button>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Click="rectangle">Rectangle</Button>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Click="clear">Clear</Button>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Click="resizePolygon">resize Polygon</Button>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Click="save">Save</Button>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Click="load">Load</Button>
+            <Canvas Name="canvas" >
+                <Image Name="image" Stretch="Fill" MouseLeftButtonDown="colorPixel" MouseRightButtonDown="resizeObject"/>
+            </Canvas>
+        </StackPanel>
+        <StackPanel>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Right" Click="polygon">Polygon</Button>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Right" Click="clipping">Clip</Button>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Right" Click="filling">Fill</Button>
+            <ComboBox Width="100" Height="30" HorizontalAlignment="Right" Name="colorSelection" SelectionChanged="showCurrentColor" Text="Pick a color" IsEditable="True" IsManipulationEnabled="False">
+            </ComboBox>
+            <Button Width="100" Height="20" VerticalAlignment="Top" HorizontalAlignment="Right" Click="loadImg" MouseRightButtonDown="Button_MouseRightButtonDown">loadImg</Button>
+        </StackPanel>
+    </Grid>
+</Window>

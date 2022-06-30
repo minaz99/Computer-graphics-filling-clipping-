@@ -1,0 +1,413 @@
+Class no: 2
+1
+C:\Users\HP\Pictures\Video Projects\5 centimeters per second.jpg
+intial: (981,215) , final: (981,215)
+Size: 1
+intial: (937.8333,216) , final: (981.3807,216)
+Size: 44
+intial: (894.6666,217) , final: (981.7614,217)
+Size: 88
+intial: (851.4999,218) , final: (982.142,218)
+Size: 131
+intial: (808.3333,219) , final: (982.5227,219)
+Size: 175
+intial: (765.1666,220) , final: (982.9034,220)
+Size: 218
+intial: (722,221) , final: (982.9034,221)
+Size: 261
+intial: (722,222) , final: (983.2841,222)
+Size: 262
+intial: (722,223) , final: (983.6647,223)
+Size: 262
+intial: (722,224) , final: (984.0454,224)
+Size: 263
+intial: (722,225) , final: (984.4261,225)
+Size: 263
+intial: (722,226) , final: (984.8068,226)
+Size: 263
+intial: (722,227) , final: (985.1874,227)
+Size: 264
+intial: (722,228) , final: (985.5681,228)
+Size: 264
+intial: (722,229) , final: (985.9488,229)
+Size: 264
+intial: (722,230) , final: (986.3295,230)
+Size: 265
+intial: (722,231) , final: (986.7101,231)
+Size: 265
+intial: (722,232) , final: (987.0908,232)
+Size: 266
+intial: (722,233) , final: (987.4715,233)
+Size: 266
+intial: (722,234) , final: (987.8522,234)
+Size: 266
+intial: (722,235) , final: (988.2328,235)
+Size: 267
+intial: (722,236) , final: (988.6135,236)
+Size: 267
+intial: (722,237) , final: (988.9942,237)
+Size: 267
+intial: (722,238) , final: (989.3749,238)
+Size: 268
+intial: (722,239) , final: (989.7556,239)
+Size: 268
+intial: (722,240) , final: (990.1362,240)
+Size: 269
+intial: (722,241) , final: (990.5169,241)
+Size: 269
+intial: (722,242) , final: (990.8976,242)
+Size: 269
+intial: (722,243) , final: (991.2783,243)
+Size: 270
+intial: (722,244) , final: (991.6589,244)
+Size: 270
+intial: (722,245) , final: (992.0396,245)
+Size: 271
+intial: (722,246) , final: (992.4203,246)
+Size: 271
+intial: (722,247) , final: (992.801,247)
+Size: 271
+intial: (722,248) , final: (993.1816,248)
+Size: 272
+intial: (722,249) , final: (993.5623,249)
+Size: 272
+intial: (722,250) , final: (993.943,250)
+Size: 272
+intial: (722,251) , final: (994.3237,251)
+Size: 273
+intial: (722,252) , final: (994.7043,252)
+Size: 273
+intial: (722,253) , final: (995.085,253)
+Size: 274
+intial: (722,254) , final: (995.4657,254)
+Size: 274
+intial: (722,255) , final: (995.8464,255)
+Size: 274
+intial: (722,256) , final: (996.2271,256)
+Size: 275
+intial: (722,257) , final: (996.6077,257)
+Size: 275
+intial: (722,258) , final: (996.9884,258)
+Size: 275
+intial: (722,259) , final: (997.3691,259)
+Size: 276
+intial: (722,260) , final: (997.7498,260)
+Size: 276
+intial: (722,261) , final: (998.1304,261)
+Size: 277
+intial: (722,262) , final: (998.5111,262)
+Size: 277
+intial: (722,263) , final: (998.8918,263)
+Size: 277
+intial: (722,264) , final: (998.8918,264)
+Size: 277
+intial: (722.1234,265) , final: (999.2725,265)
+Size: 278
+intial: (722.2467,266) , final: (999.6531,266)
+Size: 278
+intial: (722.3701,267) , final: (1000.034,267)
+Size: 278
+intial: (722.4934,268) , final: (1000.414,268)
+Size: 278
+intial: (722.6168,269) , final: (1000.795,269)
+Size: 279
+intial: (722.7401,270) , final: (1001.176,270)
+Size: 279
+intial: (722.8635,271) , final: (1001.557,271)
+Size: 279
+intial: (722.9868,272) , final: (1001.937,272)
+Size: 279
+intial: (723.1102,273) , final: (1002.318,273)
+Size: 280
+intial: (723.2335,274) , final: (1002.699,274)
+Size: 280
+intial: (723.3569,275) , final: (1003.079,275)
+Size: 280
+intial: (723.4802,276) , final: (1003.46,276)
+Size: 280
+intial: (723.6036,277) , final: (1003.841,277)
+Size: 281
+intial: (723.7269,278) , final: (1004.221,278)
+Size: 281
+intial: (723.8503,279) , final: (1004.602,279)
+Size: 281
+intial: (723.9736,280) , final: (1004.983,280)
+Size: 282
+intial: (724.097,281) , final: (1005.363,281)
+Size: 282
+intial: (724.2203,282) , final: (1005.744,282)
+Size: 282
+intial: (724.3437,283) , final: (1006.125,283)
+Size: 282
+intial: (724.467,284) , final: (1006.505,284)
+Size: 283
+intial: (724.5904,285) , final: (1006.886,285)
+Size: 283
+intial: (724.7137,286) , final: (1007.267,286)
+Size: 283
+intial: (724.8371,287) , final: (1007.647,287)
+Size: 283
+intial: (724.9604,288) , final: (1008.028,288)
+Size: 284
+intial: (725.0838,289) , final: (1008.409,289)
+Size: 284
+intial: (725.2072,290) , final: (1008.789,290)
+Size: 284
+intial: (725.3305,291) , final: (1009.17,291)
+Size: 284
+intial: (725.4539,292) , final: (1009.551,292)
+Size: 285
+intial: (725.5772,293) , final: (1009.931,293)
+Size: 285
+intial: (725.7006,294) , final: (1010.312,294)
+Size: 285
+intial: (725.8239,295) , final: (1010.693,295)
+Size: 285
+intial: (725.9473,296) , final: (1011.073,296)
+Size: 286
+intial: (726.0706,297) , final: (1011.454,297)
+Size: 286
+intial: (726.194,298) , final: (1011.835,298)
+Size: 286
+intial: (726.3173,299) , final: (1012.215,299)
+Size: 286
+intial: (726.4407,300) , final: (1012.596,300)
+Size: 287
+intial: (726.564,301) , final: (1012.977,301)
+Size: 287
+intial: (726.6874,302) , final: (1013.357,302)
+Size: 287
+intial: (726.8107,303) , final: (1013.738,303)
+Size: 287
+intial: (726.9341,304) , final: (1014.119,304)
+Size: 288
+intial: (727.0574,305) , final: (1014.5,305)
+Size: 288
+intial: (727.1808,306) , final: (1014.88,306)
+Size: 288
+intial: (727.3041,307) , final: (1015.261,307)
+Size: 288
+intial: (727.4275,308) , final: (1015.642,308)
+Size: 289
+intial: (727.5508,309) , final: (1016.022,309)
+Size: 289
+intial: (727.6742,310) , final: (1016.403,310)
+Size: 289
+intial: (727.7975,311) , final: (1016.784,311)
+Size: 289
+intial: (727.9209,312) , final: (1017.164,312)
+Size: 290
+intial: (728.0443,313) , final: (1017.545,313)
+Size: 290
+intial: (728.1676,314) , final: (1017.926,314)
+Size: 290
+intial: (728.291,315) , final: (1018.306,315)
+Size: 291
+intial: (728.4143,316) , final: (1018.687,316)
+Size: 291
+intial: (728.5377,317) , final: (1019.068,317)
+Size: 291
+intial: (728.661,318) , final: (1019.448,318)
+Size: 291
+intial: (728.7844,319) , final: (1019.829,319)
+Size: 292
+intial: (728.9077,320) , final: (1020.21,320)
+Size: 292
+intial: (729.0311,321) , final: (1020.59,321)
+Size: 292
+intial: (729.1544,322) , final: (1020.971,322)
+Size: 292
+intial: (729.2778,323) , final: (1021.352,323)
+Size: 293
+intial: (729.4011,324) , final: (1021.732,324)
+Size: 293
+intial: (729.5245,325) , final: (1022.113,325)
+Size: 293
+intial: (729.6478,326) , final: (1022.494,326)
+Size: 293
+intial: (729.7712,327) , final: (1022.874,327)
+Size: 294
+intial: (729.8945,328) , final: (1023.255,328)
+Size: 294
+intial: (730.0179,329) , final: (1023.636,329)
+Size: 294
+intial: (730.1412,330) , final: (1024.016,330)
+Size: 294
+intial: (730.2646,331) , final: (1024.397,331)
+Size: 295
+intial: (730.3879,332) , final: (1024.778,332)
+Size: 295
+intial: (730.5113,333) , final: (1025.159,333)
+Size: 295
+intial: (730.6346,334) , final: (1025.539,334)
+Size: 295
+intial: (730.758,335) , final: (1025.92,335)
+Size: 296
+intial: (730.8813,336) , final: (1026.301,336)
+Size: 296
+intial: (731.0047,337) , final: (1026.682,337)
+Size: 296
+intial: (731.1281,338) , final: (1027.062,338)
+Size: 296
+intial: (731.2514,339) , final: (1027.443,339)
+Size: 297
+intial: (731.3748,340) , final: (1027.824,340)
+Size: 297
+intial: (731.4981,341) , final: (1028.205,341)
+Size: 297
+intial: (731.6215,342) , final: (1028.585,342)
+Size: 297
+intial: (731.7448,343) , final: (1028.966,343)
+Size: 298
+intial: (731.8682,344) , final: (1029.347,344)
+Size: 298
+intial: (731.9915,345) , final: (1029.728,345)
+Size: 298
+intial: (732.1149,346) , final: (1030.108,346)
+Size: 298
+intial: (732.2382,347) , final: (1030.489,347)
+Size: 299
+intial: (732.3616,348) , final: (1030.87,348)
+Size: 299
+intial: (732.4849,349) , final: (1031.25,349)
+Size: 299
+intial: (732.6083,350) , final: (1031.631,350)
+Size: 300
+intial: (732.7316,351) , final: (1032.012,351)
+Size: 300
+intial: (732.855,352) , final: (1032.393,352)
+Size: 300
+intial: (732.9783,353) , final: (1032.773,353)
+Size: 300
+intial: (733.1017,354) , final: (1033.154,354)
+Size: 301
+intial: (733.225,355) , final: (1033.535,355)
+Size: 301
+intial: (733.3484,356) , final: (1033.916,356)
+Size: 301
+intial: (733.4717,357) , final: (1034.296,357)
+Size: 301
+intial: (733.5951,358) , final: (1034.677,358)
+Size: 302
+intial: (733.7184,359) , final: (1035.058,359)
+Size: 302
+intial: (733.8418,360) , final: (1035.439,360)
+Size: 302
+intial: (733.9651,361) , final: (1035.819,361)
+Size: 302
+intial: (734.0885,362) , final: (1036.2,362)
+Size: 303
+intial: (734.2119,363) , final: (1036.581,363)
+Size: 303
+intial: (734.3352,364) , final: (1036.962,364)
+Size: 303
+intial: (734.4586,365) , final: (1037.342,365)
+Size: 303
+intial: (734.5819,366) , final: (1037.723,366)
+Size: 304
+intial: (734.7053,367) , final: (1038.104,367)
+Size: 304
+intial: (734.8286,368) , final: (1038.484,368)
+Size: 304
+intial: (734.952,369) , final: (1038.865,369)
+Size: 304
+intial: (735.0753,370) , final: (1039.246,370)
+Size: 305
+intial: (735.1987,371) , final: (1039.627,371)
+Size: 305
+intial: (735.322,372) , final: (1040.007,372)
+Size: 305
+intial: (735.4454,373) , final: (1040.388,373)
+Size: 305
+intial: (735.5687,374) , final: (1040.769,374)
+Size: 306
+intial: (735.6921,375) , final: (1041.15,375)
+Size: 306
+intial: (735.8154,376) , final: (1041.53,376)
+Size: 306
+intial: (735.9388,377) , final: (1041.911,377)
+Size: 306
+intial: (736.0621,378) , final: (1042.292,378)
+Size: 307
+intial: (736.1855,379) , final: (1042.673,379)
+Size: 307
+intial: (736.3088,380) , final: (1043.053,380)
+Size: 307
+intial: (736.4322,381) , final: (1043.434,381)
+Size: 308
+intial: (736.5555,382) , final: (1043.815,382)
+Size: 308
+intial: (736.6789,383) , final: (1044.196,383)
+Size: 308
+intial: (736.8022,384) , final: (1044.576,384)
+Size: 308
+intial: (736.9256,385) , final: (1044.957,385)
+Size: 309
+intial: (737.049,386) , final: (1045.338,386)
+Size: 309
+intial: (737.1723,387) , final: (1045.719,387)
+Size: 309
+intial: (737.2957,388) , final: (1046.099,388)
+Size: 309
+intial: (737.419,389) , final: (1046.48,389)
+Size: 310
+intial: (737.5424,390) , final: (1046.861,390)
+Size: 310
+intial: (1048,391) , final: (737.5424,391)
+Size: 311
+intial: (1036.63,392) , final: (737.6657,392)
+Size: 299
+intial: (1025.259,393) , final: (737.7891,393)
+Size: 288
+intial: (1013.889,394) , final: (737.9124,394)
+Size: 276
+intial: (1002.519,395) , final: (738.0358,395)
+Size: 265
+intial: (991.1482,396) , final: (738.1591,396)
+Size: 253
+intial: (979.7778,397) , final: (738.2825,397)
+Size: 242
+intial: (968.4075,398) , final: (738.4058,398)
+Size: 231
+intial: (957.0371,399) , final: (738.5292,399)
+Size: 219
+intial: (945.6667,400) , final: (738.6525,400)
+Size: 208
+intial: (934.2964,401) , final: (738.7759,401)
+Size: 196
+intial: (922.926,402) , final: (738.8992,402)
+Size: 185
+intial: (911.5557,403) , final: (739.0226,403)
+Size: 173
+intial: (900.1853,404) , final: (739.1459,404)
+Size: 162
+intial: (888.8149,405) , final: (739.2693,405)
+Size: 150
+intial: (877.4446,406) , final: (739.3926,406)
+Size: 139
+intial: (866.0742,407) , final: (739.516,407)
+Size: 127
+intial: (854.7039,408) , final: (739.6393,408)
+Size: 116
+intial: (843.3335,409) , final: (739.7627,409)
+Size: 104
+intial: (831.9631,410) , final: (739.886,410)
+Size: 93
+intial: (820.5928,411) , final: (740.0094,411)
+Size: 81
+intial: (809.2224,412) , final: (740.1328,412)
+Size: 70
+intial: (797.8521,413) , final: (740.2561,413)
+Size: 58
+intial: (786.4817,414) , final: (740.3795,414)
+Size: 47
+intial: (775.1113,415) , final: (740.5028,415)
+Size: 35
+intial: (763.741,416) , final: (740.6262,416)
+Size: 24
+intial: (752.3706,417) , final: (740.7495,417)
+Size: 12
+intial: (741.0002,418) , final: (740.8729,418)
+Size: 1
+Class no: 1
+initial: (202,187) , final: (502,469))
